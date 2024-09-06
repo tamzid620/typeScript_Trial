@@ -1,4 +1,4 @@
-// build in type  array, string, number, void, null, undefined etc ----------------------
+// build in type  array, string, number,boolean,  void, null, undefined etc ----------------------
 // if function does not return anything , then use type void 
 
 let firstName: string;
